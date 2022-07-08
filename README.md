@@ -10,7 +10,6 @@
     5. It is built with ReactJS.
     6. RapidAPI is used for the Google API fetch.
     7. The designing is done through Tailwind-CSS.
-    5. 
 
 ## Available Scripts
 
